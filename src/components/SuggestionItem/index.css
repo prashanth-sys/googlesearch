@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+}
+.logo {
+  width: 35px;
+}

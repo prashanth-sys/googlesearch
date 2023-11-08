@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 16px 0px;
+  min-height: 100vh;
+}
+.image {
+  width: 25%;
+  margin-bottom: 15px;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 16px 0px;
+  height: 90vh;
+}
+.input-container {
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0px 4px 16px 0px;
+  border-radius: 9px;
+  width: 35%;
+}
+.input {
+  height: 32px;
+  width: 100%;
+  border-color: none;
+  border-width: 0px;
+  border-radius: 9px;
+}
+.search-logo {
+  width: 35px;
+}
+.logo-container {
+  display: flex;
+}
